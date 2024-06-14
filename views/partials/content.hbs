@@ -1,0 +1,22 @@
+{{! Description: This is the content partial that will be included in the main layout file. }}
+{{! This partial will be used to display the content of the page}}
+<div class="container"> 
+      <table class="responsive-table highlight">
+        <thead>
+          <tr>
+              <th>Movie</th>
+              <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each movies}}
+          <tr>
+            <td>{{this.title}}</td>
+            <td>{{this.description}}</td>
+            <td><a href="/movies/edit/{{this.id}}"><i class="material-icons">border_color</i></a></td>
+            <td><a href="/movies/delete/{{this.id}}?_method=DELETE"><i class="material-icons">delete</i></a></td>
+          </tr>
+          {{/each}}
+        </tbody>
+      </table>
+</div>
