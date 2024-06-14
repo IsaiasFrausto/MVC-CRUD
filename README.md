@@ -6,8 +6,8 @@ Movie Reviewer is a web-based platform designed to manage a movie database effic
 ## User´s Manual
 If you are a user of this web app, access the [User´s Manual](https://docs.google.com/document/d/1myRZZTe29XWUC3rW8DxjMsN-JMrdeIiFOw4x-8r05tA/edit?usp=sharing) for more information and a quick guide on getting started.
 
-## User´s Manual
-If you are a user of this web app, access the [User´s Manual](https://docs.google.com/document/d/1myRZZTe29XWUC3rW8DxjMsN-JMrdeIiFOw4x-8r05tA/edit?usp=sharing) for more information and a quick guide on getting started.
+## Video
+Here is a short [video](https://drive.google.com/file/d/1PcNe976PNtkA2igfg3V4vQ7WZbjG1Svd/view?usp=sharing) of the functionality of the app.
 
 ## More Documentation
 - [NodeJS](https://nodejs.org/docs/latest/api/)
